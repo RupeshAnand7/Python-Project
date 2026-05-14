@@ -1,0 +1,26 @@
+[
+    {
+        "task": "Buy Milk",
+        "duedate": "Tommorow",
+        "uniqueid": "6wqizf9jox",
+        "done": false
+    },
+    {
+        "task": "Go to College",
+        "duedate": "23/07/2026",
+        "uniqueid": "0g8wgafpwe",
+        "done": false
+    },
+    {
+        "task": "Go to Sakchi Market",
+        "duedate": "7:30 p.m.",
+        "uniqueid": "8mcuta0487",
+        "done": false
+    },
+    {
+        "task": "Go to Market",
+        "duedate": "Tommorow",
+        "uniqueid": "vkx2bn4aej",
+        "done": true
+    }
+]
